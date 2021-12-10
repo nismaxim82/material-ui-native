@@ -1,0 +1,22 @@
+{
+  "name": "@material-ui/native-example",
+  "displayName": "Native Example",
+  "expo": {
+    "name": "@material-ui/native-example",
+    "slug": "material-ui-native-example",
+    "description": "Example app for @material-ui/native",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
